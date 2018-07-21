@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator_use_when</string>
+    <string name="angka1">angka1</string>
+    <string name="angka2">angka2</string>
+    <string name="bagi">/</string>
+    <string name="hasil">Hasil</string>
+    <string name="tmbh">+</string>
+    <string name="krg">-</string>
+    <string name="kali">x</string>
+    <string name="clear">Clear</string>
+</resources>
